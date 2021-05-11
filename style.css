@@ -1,0 +1,19 @@
+body{
+    background-color: #d1feff;
+}
+.heading{
+    font-size:28px !important;
+}
+hr{
+    border-color:black;
+}
+#camera{
+    border-style: solid;
+    border-color: black;
+    width:300px;
+    height: 300px;
+}
+#snapshot{
+    width:300px;
+    height:300px;
+}
